@@ -1,7 +1,7 @@
 # 💫 About Me:
 First-Year BSc.IT Student at Presidential Graduate School  <br>📍 From: Kathmandu, Nepal  <br>🛡️ Member @ Cybersecurity Club |
 
-### 🌐 Currently Learning
+## 🌐 Currently Learning
 
 - **Languages:**  
   ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
