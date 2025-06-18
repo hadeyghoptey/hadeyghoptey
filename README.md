@@ -4,7 +4,7 @@
        align="right"
        alt="cat-fear-me" />
 </a>
-First-Year BSc.IT Student at Presidential Graduate School  <br>📍 From: Kathmandu, Nepal  <br>🛡️ Member @ Cybersecurity Club | 
+First-Year BSc.IT Student at Presidential Graduate School  <br>📍 From: Kathmandu, Nepal  <br>🛡️ Member @ Cybersecurity Club | <br>🛡️ Member @ Software Club | 
 
 [![committers.top badge](https://user-badge.committers.top/nepal/sadistic2keed.svg)](https://user-badge.committers.top/nepal/sadistic2keed) &nbsp;&nbsp;&nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=sadistic2keed)
