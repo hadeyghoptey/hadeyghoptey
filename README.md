@@ -1,17 +1,17 @@
 # 💫 About Me:
 First-Year BSc.IT Student at Presidential Graduate School  <br>📍 From: Kathmandu, Nepal  <br>🛡️ Member @ Cybersecurity Club |
 
-[![committers.top badge](https://user-badge.committers.top/nepal/sadistic2keed.svg)](https://user-badge.committers.top/nepal/sadistic2keed) &nbsp;&nbsp;&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=sadistic2keed)
-
-### 👉 [https://manashhada.com.np/](https://manashhada.com.np/)
-
 <a href="https://tenor.com/view/cat-fear-me-whisper-cat-fear-me-whisper-cat-fear-me-gif-25266655">
   <img src="https://github.com/user-attachments/assets/b56d7219-6495-4314-ba3d-faba3446afc6"
        width="200"
        align="right"
        alt="cat-fear-me" />
 </a>
+
+[![committers.top badge](https://user-badge.committers.top/nepal/sadistic2keed.svg)](https://user-badge.committers.top/nepal/sadistic2keed) &nbsp;&nbsp;&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=sadistic2keed)
+
+### 👉 [https://manashhada.com.np/](https://manashhada.com.np/)
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
