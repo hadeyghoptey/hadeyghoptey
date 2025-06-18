@@ -53,8 +53,10 @@ First-Year BSc.IT Student at Presidential Graduate School  <br>📍 From: Kathma
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadistic2keed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadistic2keed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=sadistic2keed&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sadistic2keed&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sadistic2keed&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadistic2keed&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sadistic2keed&icon=0&color=0)](https://visitcount.itsvg.in)
