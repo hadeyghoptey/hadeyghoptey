@@ -6,8 +6,6 @@ First-Year BSc.IT Student at Presidential Graduate School  <br>📍 From: Kathma
 
 ### 👉 [https://manashhada.com.np/](https://manashhada.com.np/)
 
-![cat fear me](https://media.tenor.com/WVjH9TpxpR0AAAAC/cat-fear-me.gif)
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -59,4 +57,3 @@ First-Year BSc.IT Student at Presidential Graduate School  <br>📍 From: Kathma
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadistic2keed&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sadistic2keed&icon=0&color=0)](https://visitcount.itsvg.in)
