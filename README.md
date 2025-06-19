@@ -62,4 +62,5 @@ First-Year BSc.IT Student at Presidential Graduate School  <br>📍 From: Kathma
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadistic2keed&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/manashhada) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/manas002) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/manashhada) 
+
