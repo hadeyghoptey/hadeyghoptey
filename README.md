@@ -1,4 +1,4 @@
-# 💫 About Me: <a href="https://tenor.com/view/cat-fear-me-whisper-cat-fear-me-whisper-cat-fear-me-gif-25266655">
+# 💫 About Me: <a href="blob:https://mail.proton.me/863e4f43-411e-40cd-8f2c-247dec606104">
   <img src="https://github.com/user-attachments/assets/b56d7219-6495-4314-ba3d-faba3446afc6"
        width="200"
        align="right"
