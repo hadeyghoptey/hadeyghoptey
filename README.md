@@ -1,7 +1,7 @@
-# 💫 About Me: <a href="blob:https://mail.proton.me/863e4f43-411e-40cd-8f2c-247dec606104">
+# 💫 About Me: <a href="https://tenor.googleapis.com/v2/media?id=16221638883088798696&format=optimizedgif&client_key=tenor_web&appversion=browser-r20250506-2&access_token=ya29.a0AS3H6NztrGkWWRmB_M8k9fqc8Jv3wiKC7CQQjnzMBKE-VXufswWtJClPbfYAC3l7d20Ypsu9flBxwqvrRIQmJAl8DWxL0oQtA5eOAHzTU5_X_mzKSXIb02LbWfc5vwDkHEFKZBfAcG2_vsUVlm4wrPfxM5RLLkwvACGLijs_aCgYKAScSAQ8SFQHGX2MiG9nFGclH790W4otwpnZNXQ0175&key=AIzaSyC-P6_qz3FzCoXGLk6tgitZo4jEJ5mLzD8)">
   <img src="https://github.com/user-attachments/assets/b56d7219-6495-4314-ba3d-faba3446afc6"
        width="200"
-       align="right"
+       align="right"![tenor](https://github.com/user-attachments/assets/8274dbcd-160a-4b3b-aebe-6be738eb4783)
        alt="cat-fear-me" />
 </a>
 📍 From: Kathmandu, Nepal  <br>🛡️ Member @ Cybersecurity Club | <br>🛡️ Member @ Software Club | 
