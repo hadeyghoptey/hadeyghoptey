@@ -8,7 +8,6 @@
 
 [![committers.top badge](https://user-badge.committers.top/nepal/sadistic2keed.svg)](https://user-badge.committers.top/nepal/sadistic2keed) &nbsp;&nbsp;&nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=sadistic2keed)
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/sadistic.keed.png)](https://tryhackme.com/p/sadistic.keed)
 
 ### 👉 [https://manashhada.com.np/](https://manashhada.com.np/)
 
