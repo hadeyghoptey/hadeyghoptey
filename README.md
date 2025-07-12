@@ -1,7 +1,7 @@
 # 💫 About Me: 
 <img src="https://github.com/user-attachments/assets/8274dbcd-160a-4b3b-aebe-6be738eb4783" width="200" align="right">
 
-📍 From: Kathmandu, Nepal  <br>🛡️ Member @ Cybersecurity Club | <br>🛡️ Member @ Software Club | 
+📍 From: Kathmandu, Nepal  <br>🛡️ Member @ PGS Cybersecurity Club | <br>🛡️ Member @ PGS Software Club | 
 
 [![committers.top badge](https://user-badge.committers.top/nepal/sadistic2keed.svg)](https://user-badge.committers.top/nepal/sadistic2keed) &nbsp;&nbsp;&nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=sadistic2keed)
