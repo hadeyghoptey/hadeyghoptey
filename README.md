@@ -3,8 +3,8 @@
 
 📍 From: Kathmandu, Nepal  <br>🛡️ Member @ PGS Cybersecurity Club | <br>🛡️ Member @ PGS Software Club | 
 
-[![committers.top badge](https://user-badge.committers.top/nepal/sadistic2keed.svg)](https://user-badge.committers.top/nepal/sadistic2keed) &nbsp;&nbsp;&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=sadistic2keed)
+[![committers.top badge](https://user-badge.committers.top/nepal/hadeyghoptey.svg)](https://user-badge.committers.top/nepal/hadeyghoptey) &nbsp;&nbsp;&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=hadeyghoptey)
 
 ### 👉 [https://manashhada.com.np/](https://manashhada.com.np/)
 
@@ -57,9 +57,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sadistic2keed&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sadistic2keed&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadistic2keed&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=hadeyghoptey&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hadeyghoptey&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hadeyghoptey&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
  ## 💰 You can help me by donating!
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/manas002) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/manashhada) 
