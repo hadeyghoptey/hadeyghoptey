@@ -27,27 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="24" width="24" alt="MongoDB logo" />
 </div>
 
-
-
-
-## 🌐 Currently Learning
-
-- **Frameworks & Runtime:**  
-  ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-
-- **Security Tools:**  
-  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-  ![Nmap](https://img.shields.io/badge/Nmap-%2300599C.svg?style=flat-square&logo=gnome-terminal&logoColor=white)
-  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF9900.svg?style=flat-square&logo=burpsuite&logoColor=white)
-  ![Metasploit](https://img.shields.io/badge/Metasploit-%23144788.svg?style=flat-square&logo=metasploit&logoColor=white)
-  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-
-- **Other:**  
-  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manash-hada-0a75a3330) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hadamanash2023) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hadamanash2023) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manashada@proton.new)
 
