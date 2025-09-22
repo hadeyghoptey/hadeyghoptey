@@ -3,7 +3,7 @@
 
 📍 From: Kathmandu, Nepal  <br>🛡️ Member @ PGS Cybersecurity Club | <br>🛡️ Member @ PGS Software Club | 
 
-![Profile Views](https://komarev.com/ghpvc/?username=hadeyghoptey) [![committers.top badge](https://user-badge.committers.top/nepal/lagzenthakuri.svg)](https://user-badge.committers.top/nepal/hadeyghoptey)
+![Profile Views](https://komarev.com/ghpvc/?username=hadeyghoptey) [![committers.top badge](https://user-badge.committers.top/nepal/hadeyghoptey.svg)](https://user-badge.committers.top/nepal/hadeyghoptey)
 
 ### 👉 [https://manashhada.com.np/](https://manashhada.com.np/)
 
