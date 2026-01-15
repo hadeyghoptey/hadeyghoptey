@@ -27,6 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="24" width="24" alt="MongoDB logo" />
 </div>
 
+[![Manash Hada's FlagForge Badge](https://flagforge.xyz/api/badge/Manash-Hada/svg)](https://flagforge.xyz/user/Manash-Hada)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manash-hada-0a75a3330) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hadamanash2023) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hadamanash2023) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manashada@proton.new)
 
