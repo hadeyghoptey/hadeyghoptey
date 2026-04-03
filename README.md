@@ -7,7 +7,8 @@
 
 ### 👉 [https://manashhada.com.np/](https://manashhada.com.np/)
 
-[![Manash Hada's FlagForge Badge](https://www.flagforgectf.com/api/badge/Manash-Hada/svg)] https://www.flagforgectf.com/user/Manash-Hada)
+[![Manash Hada's FlagForge Badge](https://www.flagforgectf.com/api/badge/Manash-Hada/svg)]
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manash-hada-0a75a3330) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hadamanash2023) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hadamanash2023) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manashada@proton.new)
 
