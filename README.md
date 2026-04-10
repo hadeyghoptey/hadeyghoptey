@@ -72,9 +72,9 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hadeyghoptey&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hadeyghoptey&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hadeyghoptey&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats-phi-amber-61.vercel.app/api?username=hadeyghoptey&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com/?user=hadeyghoptey&theme=tokyonight&hide_border=true)
 
 ---
 
