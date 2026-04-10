@@ -74,6 +74,7 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats-phi-amber-61.vercel.app/api?username=hadeyghoptey&show_icons=true&theme=tokyonight&hide_border=true)
+<br>
 ![](https://streak-stats.demolab.com/?user=hadeyghoptey&theme=tokyonight&hide_border=true)
 
 ---
