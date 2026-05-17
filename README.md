@@ -15,7 +15,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manash-hada-0a75a3330) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hadamanash2023) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hadamanash2023) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/s4distycub/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manashada@proton.new)  
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23FF0000.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/hadeyghoptey) 
