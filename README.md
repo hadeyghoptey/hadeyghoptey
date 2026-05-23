@@ -8,8 +8,6 @@
 
 ### 👉 https://manashhada.com.np/
 
-![Manash Hada's FlagForge Badge](https://www.flagforgectf.com/api/badge/Manash-Hada/svg)
-
 ---
 
 ## 🌐 Socials:
