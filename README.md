@@ -90,6 +90,7 @@
 [![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/) 
 [![ESP](https://img.shields.io/badge/ESP-FF2D20?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/) 
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://www.raspberrypi.com/)
+[![ngrok](https://img.shields.io/badge/-ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)](https://ngrok.com/)
 
 ---
 
