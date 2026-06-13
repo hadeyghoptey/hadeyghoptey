@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 <img src="https://github.com/user-attachments/assets/8274dbcd-160a-4b3b-aebe-6be738eb4783" width="200" align="right">
 
 📍 From: Kathmandu, Nepal
@@ -15,10 +15,7 @@
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/public/users/3018982)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23FF0000.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/hadeyghoptey) 
 
----
-
 # 💻 Tech Stack:
-
 ### Frontend
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/) 
 [![Next JS](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/) 
@@ -27,8 +24,6 @@
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/) 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
-
----
 
 ### Backend & Programming
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) 
@@ -40,15 +35,11 @@
 [![PowerShell](https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/) 
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
----
-
 ### Databases
 [![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) 
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) 
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
-
----
 
 ### DevOps & Hosting
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/) 
@@ -57,8 +48,6 @@
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
 [![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/) 
 [![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)](https://tomcat.apache.org/)
-
----
 
 ### Cybersecurity & Pentesting
 [![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp) 
@@ -71,8 +60,6 @@
 [![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/) 
 [![Hydra](https://img.shields.io/badge/Hydra-1B5E20?style=for-the-badge)](https://github.com/vanhauser-thc/thc-hydra) 
 [![BloodHound](https://img.shields.io/badge/BloodHound-C1121F?style=for-the-badge&logo=neo4j&logoColor=white)](https://bloodhound.specterops.io/) 
-
----
 
 ### Tools & Others
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/) 
@@ -92,12 +79,9 @@
 ---
 
 # 📊 GitHub Stats:
-
 ![](https://github-readme-stats-phi-amber-61.vercel.app/api?username=hadeyghoptey&show_icons=true&theme=tokyonight&hide_border=true)
 <br>
 ![](https://streak-stats.demolab.com/?user=hadeyghoptey&theme=tokyonight&hide_border=true)
-
----
 
 ## 💰 You can help me by donating!
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/manas002) 
